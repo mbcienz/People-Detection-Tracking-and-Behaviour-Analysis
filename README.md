@@ -7,6 +7,8 @@ Detect and track all people in real-time within a video.
 Recognize pedestrian attributes such as gender, bags, hats.
 Analyze behaviors by monitoring virtual line crossings.
 
+Refer to `Report.pdf` for the detailed explaination and analysis of the system.
+
 <h2> Goals </h2>
 Ensure high precision in detection and classification to minimize errors. The system will process videos in real-time, display results through an interactive interface, and generate a standardized output file.
 
@@ -76,3 +78,4 @@ GPU with CUDA support for optimal performance.
     https://drive.google.com/file/d/1HXJdXgnjYb2AcHO841McnUlw4roJthK-/view?usp=share_link
   
 - Trained models are not avaiable
+
